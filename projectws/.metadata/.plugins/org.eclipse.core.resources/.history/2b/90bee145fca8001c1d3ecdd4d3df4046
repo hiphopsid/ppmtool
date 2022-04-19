@@ -1,0 +1,5 @@
+package in.codegram.ppmtoolapi.exception;
+
+public class ProjectIdException {
+
+}

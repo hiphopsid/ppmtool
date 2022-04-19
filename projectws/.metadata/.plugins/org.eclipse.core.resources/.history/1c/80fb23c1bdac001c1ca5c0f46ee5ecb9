@@ -1,0 +1,7 @@
+package in.codegram.ppmtoolapi.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface ProjectTaskRepository extends CrudRepository<T, ID> {
+
+}

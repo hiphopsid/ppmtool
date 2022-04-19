@@ -1,0 +1,9 @@
+package in.codegram.ppmtoolapi.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import in.codegram.ppmtoolapi.domain.Backlog;
+
+public interface BacklogRepository extends CrudRepository<Backlog, Long> {
+
+}

@@ -1,0 +1,3 @@
+
+spring.jpa.show-sql=true
+spring.database.url=jdbc:mysql://localhost:3306/ppmdbmarch22

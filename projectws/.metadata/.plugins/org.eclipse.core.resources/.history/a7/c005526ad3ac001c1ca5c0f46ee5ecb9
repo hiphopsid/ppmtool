@@ -1,0 +1,5 @@
+package in.codegram.ppmtoolapi.config;
+
+public class SwaggerConfig {
+
+}
